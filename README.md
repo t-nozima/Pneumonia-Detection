@@ -32,6 +32,12 @@ __4. Evaluation:__
 
 * Achieved __98.66% accuracy__.
 
+__5. Predictions:__
+
+* __1__: Pneumonia
+
+* __0__: Normal
+
 ## Tech Stack
 
 * Python
