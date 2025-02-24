@@ -22,17 +22,13 @@ __2. Model Building:__
 
 * Used a pre-trained ResNet34 convolutional neural network.
 * Fine-tuned the model with fastai’s high-level API.
-
-__3. Training:__
-
-* Batch size: 32
 * Epochs: 4
 
-__4. Evaluation:__
+__3. Evaluation:__
 
 * Achieved __98.66% accuracy__.
 
-__5. Predictions:__
+__4. Predictions:__
 
 * __1__: Pneumonia
 
