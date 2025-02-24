@@ -22,7 +22,6 @@ __2. Model Building:__
 
 * Used a pre-trained ResNet34 convolutional neural network.
 * Fine-tuned the model with fastai’s high-level API.
-* Epochs: 4
 
 __3. Evaluation:__
 
